@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.bulletvsundead.com.br/sitemap.xml
